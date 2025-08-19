@@ -23,10 +23,23 @@ O gráfico também é salvo como imagem (`grafico.png`).
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto  
 
-### 1️⃣ Clonar o repositório
+### 1️⃣ Clonar o repositório  
 ```bash
 git clone https://github.com/SEU_USUARIO/grafico_projeto.git
 cd grafico_projeto
+````
+### 2️⃣ Instalar as dependências
+```bash
+poetry install
+````
+### 3️⃣ Executar o programa
+```bash
+poetry run python grafico_projeto/main.py
+```
 
+### ➡ O programa vai pedir que você digite alguns números, exemplo:
+``` bash
+5 10 3 8 12
+```
