@@ -43,3 +43,9 @@ poetry run python grafico_projeto/main.py
 ``` bash
 5 10 3 8 12
 ```
+---
+
+## ✨ Nova Funcionalidade!
+- **Rótulos Personalizados**: Agora você pode adicionar rótulos personalizados a cada barra do gráfico.
+
+---
